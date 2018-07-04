@@ -1,0 +1,7 @@
+**/stuff
+**/*.class
+**/*.swp
+lib
+target
+kotlinc
+kotlin-compiler-1.2.51.zip
